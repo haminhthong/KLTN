@@ -1,7 +1,6 @@
 # Hướng dẫn Thu thập 300 Báo cáo ESG
 
-## Nguồn 1: GRI Database (Miễn phí - Tốt nhất)
-URL: https://database.globalreporting.org/search/
+theo báo cáo tieeens độ lần 1
 
 Cách làm:
 1. Vào link trên
