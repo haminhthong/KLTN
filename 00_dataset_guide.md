@@ -10,28 +10,7 @@ Cách làm:
 5. Đặt tên file theo quy tắc: COMPANY_YEAR_LANG.pdf
    Ví dụ: Unilever_2022_EN.pdf, Vinamilk_2022_VN.pdf
 
-## Nguồn 3: Công ty Quốc tế (Tiếng Anh)
-Sectors đề xuất (chọn 1-2 ngành để kết quả có ý nghĩa):
-
-### Năng lượng:
-- Shell, BP, TotalEnergies, Equinor, Chevron
-
-### Tiêu dùng:
-- Unilever, Nestle, P&G, Danone, L'Oreal
-
-### Công nghệ:
-- Apple, Microsoft, Google, Samsung, TSMC
-
-### Tài chính:
-- HSBC, JPMorgan, Goldman Sachs, Citigroup
-
-## Nguồn 4: CDP Database
-URL: https://www.cdp.net/en/responses
-- Báo cáo climate change, water, forests
-- Có thể download miễn phí sau khi đăng ký
-
-## Nguồn 5: Responsible Business Exchange
-URL: https://www.responsible-business.org
+lấy haonf toàn theo tiến độ lần 1
 
 ---
 
