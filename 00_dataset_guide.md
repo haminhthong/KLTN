@@ -10,16 +10,6 @@ Cách làm:
 5. Đặt tên file theo quy tắc: COMPANY_YEAR_LANG.pdf
    Ví dụ: Unilever_2022_EN.pdf, Vinamilk_2022_VN.pdf
 
-## Nguồn 2: Công ty Việt Nam (Tiếng Việt)
-Các công ty VN30 có báo cáo ESG/Phát triển bền vững:
-- Vinamilk: https://www.vinamilk.com.vn/vi/quan-he-co-dong
-- Vietcombank: https://www.vietcombank.com.vn
-- Masan: https://www.masangroup.com
-- VinGroup: https://www.vingroup.net
-- FPT: https://fpt.com.vn
-- Hòa Phát: https://www.hoaphat.com.vn
-- PVN, EVN, VNPT (có báo cáo PTBV)
-
 ## Nguồn 3: Công ty Quốc tế (Tiếng Anh)
 Sectors đề xuất (chọn 1-2 ngành để kết quả có ý nghĩa):
 
