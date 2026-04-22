@@ -27,15 +27,8 @@ pip install -r requirements.txt
 ## 2. Thiết lập dữ liệu
 
 ### 2.1. Tạo cấu trúc thư mục
-Đầu tiên, hệ thống cần cấu trúc thư mục để chứa dữ liệu đầu vào và kết quả đầu ra. Hãy chạy lệnh:
-```bash
-python run_pipeline.py --setup
-```
 
-Lệnh này sẽ tự động khởi tạo các thư mục:
-- `data/raw_pdf/EN` và `data/raw_pdf/VN`: Chứa file PDF đầu vào.
-- `data/raw_text/...` và `data/processed/...`: Chứa dữ liệu văn bản.
-- `models/`, `plots/`, `results/`: Lưu các file đầu ra.
+
 
 ### 2.2. Chuẩn bị file PDF & Metadata
 - **File PDF**: Copy tất cả các báo cáo ESG/Phát triển bền vững bằng tiếng Anh vào `data/raw_pdf/EN` và tiếng Việt vào `data/raw_pdf/VN`. *(chi tiết về cách thu thập, xem thêm file `00_dataset_guide.md`)*.
