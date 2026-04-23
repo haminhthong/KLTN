@@ -20,11 +20,6 @@ Mở terminal/command prompt và chạy lệnh sau:
 ```bash
 pip install -r requirements.txt
 ```
-
-*(Lưu ý: Có một số thư viện tùy chọn trong `requirements.txt` như `pytesseract` cho OCR hay `finBERT` cho mô hình tài chính đặc thù. Bạn có thể mở file đó và bỏ comment để cài đặt bổ sung nếu có nhu cầu).*
-
----
-
 ## 2. Thiết lập dữ liệu
 
 ### 2.1. Tạo cấu trúc thư mục
