@@ -1,6 +1,7 @@
 # Hướng dẫn chạy và sử dụng ESG Pipeline
 
-Dự án này là một hệ thống Machine Learning và Text Mining hoàn chỉnh để phân tích các Báo cáo ESG (Môi trường, Xã hội, Quản trị) bằng cả tiếng Anh và tiếng Việt.
+Dự án này là một hệ thống Machine Learning và Text Mining hoàn chỉnh để phân tích các Báo cáo ESG (Môi trường, Xã hội, Quản trị) bằng cả tiếng Anh và tiếng Việt. **cần check lại kỉ file này**
+
 
 ## Mục lục
 1. [Cài đặt môi trường](#1-cài-đặt-môi-trường)
