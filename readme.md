@@ -1,36 +1,6 @@
 
 
 
-
-### 2.2. Chuẩn bị file PDF & Metadata
-- **File PDF**: Copy tất cả các báo cáo ESG/Phát triển bền vững bằng tiếng Anh vào `data/raw_pdf/EN` và tiếng Việt vào `data/raw_pdf/VN`. *(chi tiết về cách thu thập, xem thêm file `00_dataset_guide.md`)*.
-- **File Metadata**: Tạo (hoặc tải) file `metadata.csv` đặt trong thư mục `data/`. File này cung cấp thông tin như `filename`, `company`, `year`,... Nếu có thông tin về `esg_score`, mô hình sẽ dùng nó làm nhãn giám sát. Nếu thiếu, mô hình sẽ tự động tạo proxy labels.
-
-### 2.3. Kiểm tra dữ liệu và thư viện
-Sau khi chép file, bạn hãy chạy lệnh để kiểm tra độ sẵn sàng:
-```bash
-python run_pipeline.py --check
-```
-
----
-
-## 3. Cách thức chạy pipeline
-
-Dự án cung cấp file `run_pipeline.py` giống như một orchestrator giúp bạn chạy hệ thống rất đơn giản:
-
-- **Chạy toàn bộ quá trình** (từ bước 1 đến bước 6):
-  ```bash
-  python run_pipeline.py --all
-  ```
-- **Chỉ chạy một bước cụ thể** (Ví dụ chạy bước 3):
-  ```bash
-  python run_pipeline.py --step 3
-  ```
-- **Tiếp tục chạy từ một bước dở dang** (Ví dụ bắt đầu từ bước 3 đến hết):
-  ```bash
-  python run_pipeline.py --from-step 3
-  ```
-
 ---
 
 ## 4. Chi tiết các bước trong pipeline
