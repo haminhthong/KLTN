@@ -1,28 +1,4 @@
-# Hướng dẫn chạy và sử dụng ESG Pipeline
 
-Dự án này là một hệ thống Machine Learning và Text Mining hoàn chỉnh để phân tích các Báo cáo ESG (Môi trường, Xã hội, Quản trị) bằng cả tiếng Anh và tiếng Việt. **cần check lại kỉ file này**
-
-
-## Mục lục
-1. [Cài đặt môi trường](#1-cài-đặt-môi-trường)
-2. [Thiết lập dữ liệu](#2-thiết-lập-dữ-liệu)
-3. [Cách thức chạy pipeline](#3-cách-thức-chạy-pipeline)
-4. [Chi tiết các bước trong pipeline](#4-chi-tiết-các-bước-trong-pipeline)
-5. [Kết quả đầu ra](#5-kết-quả-đầu-ra)
-
----
-
-## 1. Cài đặt môi trường
-
-Để chạy toàn bộ dự án, bạn cần cài đặt các thư viện Python tiên quyết.
-
-Mở terminal/command prompt và chạy lệnh sau:
-```bash
-pip install -r requirements.txt
-```
-## 2. Thiết lập dữ liệu
-
-### 2.1. Tạo cấu trúc thư mục
 
 
 
